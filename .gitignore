@@ -1,0 +1,12 @@
+# Cache
+*.DS_Store*
+
+
+# Notebooks
+*.ipynb_checkpoints*
+
+# PEM
+*.pem
+
+# ENV
+*.env
